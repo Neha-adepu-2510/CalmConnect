@@ -49,10 +49,9 @@ node app.js
 ⚠️ Don't forget to add .env to your .gitignore to keep it private.
 
 👩‍💻 Made With 💙 By
+
 B. Jyothika
-
 A. Neha
-
 E. Vaishnavi
 
 Guided by Dr. G. Kalpana, Professor, Dept. of CSE - AI & ML, MRECW
